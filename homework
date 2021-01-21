@@ -1,0 +1,273 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>HTML Template</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<style>
+		body {
+			width: 100% !important;
+			-webkit-text-size-adjust: 100%;
+			-ms-text-size-adjust: 100%;
+			margin: 0;
+			padding: 0;
+			line-height: 100%;
+		}
+
+		[style*="Open Sans"] {font-family: 'Open Sans', arial, sans-serif !important;}
+
+		img {
+			outline: none;
+			text-decoration: none;
+			border:none;
+			-ms-interpolation-mode: bicubic;
+			max-width: 100%!important;
+			margin: 0;
+			padding: 0;
+			display: block;
+		}
+    
+		table td {
+			border-collapse: collapse;
+		}
+    
+		table {
+			border-collapse: collapse;
+			mso-table-lspace: 0pt;
+			mso-table-rspace: 0pt;
+		}
+
+        .services-bck {
+            background-color: #ffffff !important;
+        }
+
+        @media (max-width: 620px) {
+            .table-600 {
+                max-width: 280px !important;
+            }
+            
+            .head-img-mobile {
+                width: 280px !important; 
+                height: 300px !important; 
+            }
+
+            .artist-600 {
+                padding-left: 18px;
+                padding-right: 18px;
+            }
+
+            .services-600-ul {
+                flex-direction: column;
+            }
+
+            .services-600 {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+
+            .servisec-item-600 {
+                margin-top: 15px;
+            }
+
+            .servisec-item {
+                width: 100% !important;
+            }
+
+        }
+
+	</style>
+</head>
+
+<body style="margin: 0; padding: 0;">
+	<div style="font-size:0px;font-color:#ffffff;opacity:0;visibility:hidden;width:0;height:0;display:none;">Тестовое письмо</div>
+	<table cellpadding="0" cellspacing="0" width="100%" bgcolor="#ededed">
+		<tr>
+            <td>
+                <!-- head -->
+                <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="600" bgcolor="#000000">
+                    <tr>
+                        <td align="center" style="padding-top: 30px; padding-bottom: 28px;">
+                            <img src="https://i.postimg.cc/fLvdbdpL/logo.png" alt="Логотип">
+                        </td>
+                    </tr>
+                </table>
+                <!-- head -->
+
+                <!-- image -->
+                <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="600" bgcolor="#000000">
+                    <tr>
+                        <td align="center">
+                            <img src="https://i.postimg.cc/zf39JwQz/Rectangle6.jpg" class="head-img-mobile" alt="Фон">
+                        </td>
+                    </tr>
+                </table>
+                <!-- image -->
+
+                <!-- hero -->
+                <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff">
+                    <tr>
+                        <td style="padding-top: 32px; padding-bottom: 32px; padding-left: 40px; padding-right: 40px;">
+                            <h1 style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; line-height: 24px; color: #515151;">
+                                Торжество импрессионизма
+                            </h1>
+                            <p style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 24px; color: #515151;">
+                                Опыт говорит нам, что семантический разбор внешних противодействий требует анализа новых принципов формирования материально-технической и кадровой базы.
+                                <br>
+                                <br>
+                                Задача организации, в особенности же внедрение современных методик, в своём классическом представлении, допускает внедрение глубокомысленных рассуждений. Есть над чем задуматься: элементы политического процесса преданы социально-демократической анафеме! Но интерактивные прототипы заблокированы в рамках своих собственных рациональных ограничений. Сторонники тоталитаризма в науке ограничены исключительно образом мышления.
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                <!-- hero -->
+
+                <!-- artists -->
+                <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="600" bgcolor="#000000">
+                    <tr>
+                        <td style="padding-top: 26px; padding-bottom: 26px;">
+                            <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="520">
+                                <tr>
+                                    <td class="artist-600">
+                                        <h2 style="font-family: Arial, Helvetica, sans-serif; margin-top: 0; margin-bottom: 0px; font-size: 16px; line-height: 24px; color: #ffffff;">
+                                            Представленные художники
+                                        </h2>
+                                        <img src="https://i.postimg.cc/xT6XhnDw/Rectangle16.png" style="margin-top: 21px;" alt="Поль Гоген">
+                                        <h3 style="font-family: Arial, Helvetica, sans-serif; margin-top: 21px; margin-bottom: 8px; font-size: 12px; line-height: 24px; color: #ffffff;">
+                                            Поль Гоген
+                                        </h3>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 0; margin-bottom: 21px; font-size: 12px; line-height: 18px; color: #ffffff;">
+                                            Прежде всего, разбавленное изрядной долей эмпатии, рациональное мышление в значительной степени обусловливает важность укрепления моральных ценностей.
+                                        </p>
+                                        <img src="https://i.postimg.cc/L8hJMwmn/Rectangle17.jpg" style="margin-top: 21px;" alt="Поль Гоген">
+                                        <h3 style="font-family: Arial, Helvetica, sans-serif; margin-top: 21px; margin-bottom: 8px; font-size: 12px; line-height: 24px; color: #ffffff;">
+                                            Огюст Ренуар
+                                        </h3>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 0; margin-bottom: 21px; font-size: 12px; line-height: 18px; color: #ffffff;">
+                                            А также сделанные на базе интернет-аналитики выводы освещают чрезвычайно интересные особенности картины в целом.
+                                        </p>
+                                        <img src="https://i.postimg.cc/P5cPfyqK/Rectangle18.jpg" style="margin-top: 21px;" alt="Поль Гоген">
+                                        <h3 style="font-family: Arial, Helvetica, sans-serif; margin-top: 21px; margin-bottom: 8px; font-size: 12px; line-height: 24px; color: #ffffff;">
+                                            Клод Моне
+                                        </h3>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 0; margin-bottom: 21px; font-size: 12px; line-height: 18px; color: #ffffff;">
+                                            Современная методология разработки однозначно фиксирует необходимость системы массового участия.
+                                        </p>
+                                        <img src="https://i.postimg.cc/Gpy94D8R/Rectangle19.jpg" style="margin-top: 21px;" alt="Поль Гоген">
+                                        <h3 style="font-family: Arial, Helvetica, sans-serif; margin-top: 21px; margin-bottom: 8px; font-size: 12px; line-height: 24px; color: #ffffff;">
+                                            Эдуард Мане
+                                        </h3>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 0; margin-bottom: 21px; font-size: 12px; line-height: 18px; color: #ffffff;">
+                                            Но социально-экономическое развитие является качественно новой ступенью вывода текущих активов.
+                                        </p>
+                                        <img src="https://i.postimg.cc/PxnJYqYw/Rectangle20.jpg" style="margin-top: 21px;" alt="Поль Гоген">
+                                        <h3 style="font-family: Arial, Helvetica, sans-serif; margin-top: 21px; margin-bottom: 8px; font-size: 12px; line-height: 24px; color: #ffffff;">
+                                            Винсент Ван Гог
+                                        </h3>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 0; margin-bottom: 21px; font-size: 12px; line-height: 18px; color: #ffffff;">
+                                            Повседневная практика показывает, что разбавленное изрядной долей эмпатии, рациональное мышление требует анализа поставленных обществом задач.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!-- artists -->
+
+                <!-- services -->
+                <table align="center" class="table-600 services-bck" cellpadding="0" cellspacing="0" width="600">
+                    <tr>
+                        <td align="center" style="padding-top: 25px; padding-bottom: 50px;">
+                            <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="520">
+                                <tr>
+                                    <td class="services-600">
+                                        <h3 style="font-family: Arial, Helvetica, sans-serif; margin-top: 0; margin-bottom: 0; font-size: 16px; line-height: 24px; color: #515151;">
+                                            И это еще не всё!
+                                        </h3>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="services-600" style="padding-top: 25px; padding-bottom: 38px;">
+                                        <span class="servisec-item" style="display: inline-block; margin-right: 29px; width: 138px;">
+                                            <img src="https://i.postimg.cc/FshkHmtK/check-square.jpg" alt="Подборка">
+                                            <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 15px; margin-bottom: 0; font-size: 12px; line-height: 18px; color: #515151;">
+                                            Уникальные подборки работ с авторскими рецензиями
+                                            </p> 
+                                        </span>
+                                        <span class="servisec-item-600 servisec-item" style="display: inline-block; margin-right: 46px; width: 138px;">
+                                            <img src="https://i.postimg.cc/q7mgqCTB/calendar.png" alt="Рассылка">
+                                            <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 15px; margin-bottom: 0; font-size: 12px; line-height: 18px; color: #515151;">
+                                            Возможность настроить нашу рассылку под свой личный вкус
+                                            </p>
+                                        </span>
+                                        <span class="servisec-item-600 servisec-item" style="display: inline-block; vertical-align: top; width: 138px;">
+                                            <img src="https://i.postimg.cc/mDvL1Y64/arrow-up-circle.png" alt="">
+                                            <p style="font-family: Arial, Helvetica, sans-serif; margin-top: 15px; margin-bottom: 0; font-size: 12px; line-height: 18px; color: #515151;">
+                                            У вас есть пожелания и предложения?
+                                            Напишите нам в ответ на это письмо!
+                                            </p>
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <a href="#" style="font-family: Arial, Helvetica, sans-serif; padding-top: 15px; padding-bottom: 15px; padding-left: 35px; padding-right: 35px; background-color: #9D5CD0; border-radius: 48px; text-decoration: none; color: #ffffff; font-size: 14px; font-weight: 700; ">
+                                            Узнать все подробности
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!-- services -->
+
+                <!-- footer -->
+                <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="600" bgcolor="#000000">
+                    <tr>
+                        <td align="center" style="padding-top: 28px; padding-bottom: 10px;">
+                            <span style="display: inline-block; margin-right: 19px; width: 35px; height: 35px; ">
+                                <a href="#">
+                                    <img src="https://i.postimg.cc/7YV4qrDw/vk.png" alt="Вконтакте">
+                                </a>
+                            </span>
+                            <span style="display: inline-block; margin-right: 19px; width: 35px; height: 35px; ">
+                                <a href="#">
+                                    <img src="https://i.postimg.cc/W11v3Ybr/instagram.png" alt="Инстаграм">
+                                </a>
+                            </span>
+                            <span style="display: inline-block; width: 35px; height: 35px;">
+                                <a href="#">
+                                    <img src="https://i.postimg.cc/dVNKTRLf/fb.png" alt="facebook">
+                                </a>
+                            </span>
+                            <p style="font-family: Arial, Helvetica, sans-serif; margin: 0; margin-top: 5px; margin-bottom: 0; font-size: 12px; line-height: 24px; color: #515151;">
+                                Blanchard © 2020 / Все права защищены
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                <!-- footer -->
+
+                <!-- unsubscribe -->
+                <table align="center" class="table-600" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff">
+                    <tr>
+                        <td align="center">
+                            <p style="font-family: Arial, Helvetica, sans-serif; margin: 0; font-size: 10px; line-height: 24px; color: #515151;">
+                                Вы можете так же 
+                                <a href="#">
+                                    отписаться от рассылки
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                <!-- unsubscribe -->
+
+            </td>
+        </tr>
+	</table>
+</body>
+
+</html>
